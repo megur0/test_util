@@ -1,4 +1,4 @@
-module github.com/megur0/test_util
+module github.com/megur0/testutil
 
 go 1.23.1
 
